@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the IMS learning portal
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. You're gonna learn about cats and motorcycles. 
