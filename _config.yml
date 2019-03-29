@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: IMS Education Portal: Learn to Burn!
+author: Michelle, the Cat Queen
+email: awesomeness.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the IMS learning portal where you'll find education 
+  topics that you need to become productive fast. Let's modernize 
+  IMS together by using the latest tools for DevOps, AI, and more.
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +12,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-time-machine
+theme: minima
